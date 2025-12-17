@@ -1,3 +1,9 @@
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13808.png?ver=74393" group-title="Category 722",|TAN| Azam One
+http://fuego-iptv.net:8080/jlllxqecvz/b4jfag2kkv/262954.ts
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13808.png?ver=74393" group-title="Category 722",|TAN| Azam TWO
+http://fuego-iptv.net:8080/jlllxqecvz/b4jfag2kkv/262956.ts
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13808.png?ver=74393" group-title="Category 722",|TAN| ZBC 2
+http://fuego-iptv.net:8080/jlllxqecvz/b4jfag2kkv/262964.ts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/africa/supersportaction.png" group-title="Category 35",AF: SUPERSPORT ACTION
 http://31.43.191.125:8080/VIP015331728222470105/e9e3aa555df6/4425?type=mpegts
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/africa/supersportblitz.png" group-title="Category 35",AF: SUPERSPORT BLITZ
@@ -674,3 +680,4 @@ http://d478.dtv.homes:2082/star25_982663/w8Shzhse/262956?type=mpegts
 http://d478.dtv.homes:2082/live/star25_982663/w8Shzhse/262956.m3u8?type=mpegts
 #EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13808.png?ver=74393" group-title="Category 722",|TAN| ZBC 2
 http://d478.dtv.homes:2082/star25_982663/w8Shzhse/262964?type=mpegts
+
